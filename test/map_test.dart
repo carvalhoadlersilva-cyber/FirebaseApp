@@ -49,7 +49,7 @@ void main() {
 }
 
 
-
+{
 
  test('Calcular médias', () {
    Map<String, double> medias = {};
